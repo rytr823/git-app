@@ -25,4 +25,3 @@ Things you may want to cover:
 * ...
 
 ## hou to use gitHub Desktop
-## hou to use git revert
